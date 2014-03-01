@@ -2,15 +2,15 @@
 * Stylesheet for Admin Panel
 */
 
-.my_meta_control{
+.b2uc-meta-control{
 	position: relative;
 	width: 100%;
 }
 
-.my_meta_control img{
+.b2uc-meta-control img{
 	float: right;
 }
 
-.clearfix{
+.b2uc-clearfix{
 	clear: both;
 }
