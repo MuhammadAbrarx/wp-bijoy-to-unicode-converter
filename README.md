@@ -1,4 +1,4 @@
-Bijoy to Unicode Converter WordPress Plugin
+WP Bijoy to Unicode Converter Plugin
 ===========================================
 
 <img src="screenshot.png" alt="Bijoy to Unicode Converter WordPress Plugin" />A one-click ASCII Bangla (Bengali) to Unicode Bangla (Bengali) converter that can convert Bijoy (ASCII) Bangla (Bengali) texts into Unicode Bangla (Bengali). It can covert Bijoy ASCII texts into Unicode with a single click in WordPress post or page editor - in Text mode, and in Title field. The basic of the plugin was done by <a href="https://github.com/nishiafia">Ms. Tahmina Aktar</a>, based on the Javascripts of Online Unicode Converter by <a href="http://bnwebtools.sourceforge.net/">S. M. Mahbub Morshed</a>. Then it was verified, modified, simplified, and made translation-ready, and finally as a plugin by <a href="https://github.com/mayeenulislam">Mayeenul Islam</a> from <a href="http://nanodesignsbd.com">nanodesigns</a>.
