@@ -1,8 +1,8 @@
-=== Plugin Name ===
-Contributors: nishiafia, wzislam
+=== WP Bijoy to Unicode Converter ===
+Contributors: nishi123, wzislam
 Donate link: http://nanodesignsbd.com/wordpress-bijoy-to-unicode-converter
 Tags: converter, bangla, bengali, bijoy, unicode, avro
-Requires at least: 3.0.1
+Requires at least: 3.0
 Tested up to: 3.8.1
 Stable tag: 1.0
 License: GPLv3 or later
